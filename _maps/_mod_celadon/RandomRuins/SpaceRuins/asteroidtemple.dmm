@@ -324,6 +324,7 @@
 /obj/structure/table/bronze{
 	color = "#999995"
 	},
+/obj/effect/spawner/lootdrop/templestuff,
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
 "dg" = (
@@ -569,6 +570,7 @@
 	dir = 8
 	},
 /obj/structure/closet/crate/necropolis,
+/obj/effect/spawner/lootdrop/templestuff,
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
 "fw" = (
@@ -872,8 +874,25 @@
 "ie" = (
 /obj/structure/stone_tile/surrounding/cracked,
 /obj/structure/stone_tile/center/cracked,
-/mob/living/simple_animal/hostile/cult_demon,
+/mob/living/simple_animal/hostile/asteroid/brimdemon,
 /turf/open/floor/plating/asteroid/basalt,
+/area/ruin/space/has_grav/temple/temple)
+"in" = (
+/obj/structure/stone_tile/cracked{
+	dir = 4
+	},
+/obj/structure/stone_tile{
+	dir = 1
+	},
+/obj/structure/stone_tile,
+/obj/structure/stone_tile{
+	dir = 8
+	},
+/obj/structure/table/bronze{
+	color = "#999995"
+	},
+/obj/effect/spawner/lootdrop/templestuff,
+/turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
 "ip" = (
 /obj/structure/stone_tile{
@@ -1309,6 +1328,20 @@
 	},
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
+"lX" = (
+/obj/structure/stone_tile/cracked{
+	dir = 4
+	},
+/obj/structure/stone_tile{
+	dir = 1
+	},
+/obj/structure/stone_tile,
+/obj/structure/stone_tile{
+	dir = 8
+	},
+/obj/effect/spawner/lootdrop/templestuff,
+/turf/open/floor/plasteel/cult,
+/area/ruin/space/has_grav/temple/temple)
 "me" = (
 /obj/effect/turf_decal/borderfloorblack{
 	dir = 5
@@ -1641,6 +1674,7 @@
 /obj/structure/table/bronze{
 	color = "#999995"
 	},
+/obj/effect/spawner/lootdrop/templestuff,
 /turf/open/floor/plating/asteroid,
 /area/ruin/space/has_grav/temple/temple)
 "oq" = (
@@ -1908,6 +1942,22 @@
 	icon_state = "asteroid0"
 	},
 /area/ruin/space/has_grav/temple/temple)
+"qI" = (
+/obj/structure/stone_tile/block/cracked{
+	dir = 4
+	},
+/obj/structure/stone_tile/cracked{
+	dir = 8
+	},
+/obj/structure/stone_tile{
+	dir = 4
+	},
+/obj/structure/table/bronze{
+	color = "#999995"
+	},
+/obj/effect/spawner/lootdrop/materials,
+/turf/open/floor/plasteel/cult,
+/area/ruin/space/has_grav/temple/temple)
 "qO" = (
 /obj/structure/stone_tile/block,
 /obj/structure/stone_tile{
@@ -1947,6 +1997,7 @@
 /obj/structure/table/bronze{
 	color = "#999995"
 	},
+/obj/effect/spawner/lootdrop/templestuff,
 /turf/open/floor/plating/asteroid,
 /area/ruin/space/has_grav/temple/temple)
 "re" = (
@@ -2752,6 +2803,7 @@
 /obj/structure/table/bronze{
 	color = "#999995"
 	},
+/obj/effect/spawner/lootdrop/templestuff,
 /turf/open/floor/plating/asteroid,
 /area/ruin/space/has_grav/temple/temple)
 "xN" = (
@@ -2949,6 +3001,11 @@
 "zX" = (
 /turf/closed/wall/mineral/titanium,
 /area/ruin/space/has_grav/temple/miningstation)
+"Aa" = (
+/obj/structure/stone_tile/slab/cracked,
+/obj/effect/spawner/lootdrop/templestuff,
+/turf/open/floor/plasteel/cult,
+/area/ruin/space/has_grav/temple/temple)
 "Ag" = (
 /obj/structure/table/reinforced,
 /obj/effect/decal/cleanable/dirt,
@@ -3100,6 +3157,22 @@
 	},
 /turf/open/floor/plating/asteroid,
 /area/ruin/space/has_grav/temple/temple)
+"Cg" = (
+/obj/structure/stone_tile/block/cracked{
+	dir = 4
+	},
+/obj/structure/stone_tile/cracked{
+	dir = 8
+	},
+/obj/structure/stone_tile{
+	dir = 4
+	},
+/obj/structure/table/bronze{
+	color = "#999995"
+	},
+/obj/effect/spawner/lootdrop/templestuff,
+/turf/open/floor/plasteel/cult,
+/area/ruin/space/has_grav/temple/temple)
 "Ch" = (
 /obj/structure/stone_tile/cracked,
 /obj/structure/stone_tile/cracked{
@@ -3157,6 +3230,7 @@
 /obj/structure/table/bronze{
 	color = "#999995"
 	},
+/obj/effect/spawner/lootdrop/templestuff,
 /turf/open/floor/plating/asteroid,
 /area/ruin/space/has_grav/temple/temple)
 "CO" = (
@@ -3227,6 +3301,7 @@
 /area/ruin/space/has_grav/temple/miningstation)
 "Dq" = (
 /obj/effect/decal/cleanable/blood/gibs/limb,
+/obj/effect/spawner/lootdrop/templestuff,
 /turf/open/floor/plating/asteroid,
 /area/ruin/space/has_grav/temple/temple)
 "Dr" = (
@@ -3444,6 +3519,7 @@
 /obj/structure/table/bronze{
 	color = "#999995"
 	},
+/obj/effect/spawner/lootdrop/materials,
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
 "Fq" = (
@@ -3582,7 +3658,7 @@
 	dir = 8
 	},
 /obj/structure/stone_tile/center/cracked,
-/mob/living/simple_animal/hostile/cult_demon,
+/mob/living/simple_animal/hostile/asteroid/brimdemon,
 /turf/open/floor/plating/asteroid/basalt,
 /area/ruin/space/has_grav/temple/temple)
 "Hg" = (
@@ -3604,6 +3680,20 @@
 	id = "Temple13";
 	id_target = "Temple14"
 	},
+/turf/open/floor/plasteel/cult,
+/area/ruin/space/has_grav/temple/temple)
+"Hr" = (
+/obj/structure/stone_tile/cracked{
+	dir = 1
+	},
+/obj/structure/stone_tile{
+	dir = 4
+	},
+/obj/structure/stone_tile,
+/obj/structure/stone_tile{
+	dir = 8
+	},
+/obj/effect/spawner/lootdrop/templestuff,
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
 "Hs" = (
@@ -3934,7 +4024,8 @@
 /obj/structure/stone_tile{
 	dir = 8
 	},
-/obj/structure/fluff,
+/obj/structure/closet/crate/wooden,
+/obj/effect/spawner/lootdrop/templestuff,
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
 "JY" = (
@@ -3958,6 +4049,12 @@
 	pixel_x = -28
 	},
 /turf/open/floor/plasteel/cult,
+/area/ruin/space/has_grav/temple/temple)
+"Kx" = (
+/obj/machinery/door/keycard/gates/lavacanyon{
+	color = "#423429"
+	},
+/turf/open/indestructible/cult,
 /area/ruin/space/has_grav/temple/temple)
 "Kz" = (
 /obj/structure/stone_tile/block{
@@ -4238,7 +4335,7 @@
 	dir = 8
 	},
 /obj/structure/stone_tile/center/cracked,
-/mob/living/simple_animal/hostile/cult_demon,
+/mob/living/simple_animal/hostile/asteroid/brimdemon,
 /turf/open/floor/plating/asteroid/basalt,
 /area/ruin/space/has_grav/temple/temple)
 "Nb" = (
@@ -4418,7 +4515,9 @@
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
 "OV" = (
-/mob/living/simple_animal/hostile/asteroid/elite/herald,
+/mob/living/simple_animal/hostile/asteroid/elite/herald{
+	loot_drop = /obj/item/clothing/neck/cloak/herald_cloak, /obj/item/keycard/gatedrop/temple
+	},
 /turf/open/indestructible/necropolis/air,
 /area/ruin/space/has_grav/temple/temple)
 "Pg" = (
@@ -4510,6 +4609,7 @@
 /obj/structure/table/bronze{
 	color = "#999995"
 	},
+/obj/effect/spawner/lootdrop/waste/hivebot,
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
 "PF" = (
@@ -4692,7 +4792,7 @@
 	dir = 4
 	},
 /obj/structure/stone_tile/center/cracked,
-/mob/living/simple_animal/hostile/cult_demon,
+/mob/living/simple_animal/hostile/asteroid/brimdemon,
 /turf/open/floor/plating/asteroid/basalt,
 /area/ruin/space/has_grav/temple/temple)
 "Rq" = (
@@ -5341,6 +5441,13 @@
 	},
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
+"WN" = (
+/obj/structure/table/bronze{
+	color = "#999995"
+	},
+/obj/effect/spawner/lootdrop/templestuff,
+/turf/open/floor/plating/asteroid,
+/area/ruin/space/has_grav/temple/temple)
 "WS" = (
 /obj/structure/closet/secure_closet/miner,
 /obj/structure/window/reinforced/survival_pod{
@@ -5378,10 +5485,10 @@
 /turf/open/floor/plasteel/cult,
 /area/ruin/space/has_grav/temple/temple)
 "Xh" = (
-/obj/effect/turf_decal/techfloor/line{
+/obj/effect/turf_decal/techfloor{
 	dir = 4
 	},
-/obj/effect/turf_decal/techfloor/line{
+/obj/effect/turf_decal/techfloor{
 	dir = 8
 	},
 /turf/open/floor/plasteel/stairs{
@@ -5505,6 +5612,10 @@
 /turf/open/floor/pod/dark,
 /area/ruin/space/has_grav/temple/miningstation)
 "Yn" = (
+/obj/machinery/door/keycard/gates/lavacanyon{
+	color = "#423429";
+	puzzle_id = "templekey"
+	},
 /turf/open/indestructible/cult,
 /area/ruin/space/has_grav/temple/temple)
 "Yq" = (
@@ -8124,7 +8235,7 @@ tJ
 Sf
 RX
 QB
-Yn
+Kx
 QB
 tJ
 NW
@@ -8211,7 +8322,7 @@ tJ
 gY
 yR
 QB
-Yn
+Kx
 QB
 Zi
 oq
@@ -9696,7 +9807,7 @@ gt
 en
 iX
 tJ
-Ei
+in
 tJ
 tJ
 dW
@@ -10097,7 +10208,7 @@ ek
 ek
 tJ
 tJ
-iX
+lX
 iX
 dW
 ww
@@ -10111,7 +10222,7 @@ sK
 tJ
 tJ
 iX
-iX
+lX
 dW
 tJ
 tJ
@@ -10140,7 +10251,7 @@ en
 tJ
 mz
 rC
-dW
+Hr
 tJ
 tJ
 ek
@@ -10451,7 +10562,7 @@ ek
 ek
 ek
 tJ
-yP
+Aa
 tJ
 Ue
 pi
@@ -10657,7 +10768,7 @@ pK
 wB
 pK
 tJ
-oV
+WN
 pK
 cD
 tJ
@@ -10975,7 +11086,7 @@ BD
 zN
 yP
 tJ
-yP
+Aa
 iX
 iX
 qa
@@ -11519,7 +11630,7 @@ GT
 tJ
 fN
 tJ
-oV
+WN
 pK
 lP
 tJ
@@ -12721,7 +12832,7 @@ tJ
 ET
 iX
 tJ
-Ei
+in
 AV
 tJ
 en
@@ -13236,7 +13347,7 @@ ek
 ek
 tJ
 tJ
-AV
+Cg
 Ei
 AV
 JW
@@ -13248,7 +13359,7 @@ tJ
 fN
 fN
 tJ
-iX
+lX
 bM
 kb
 aD
@@ -13325,7 +13436,7 @@ tJ
 en
 rC
 PC
-yP
+Aa
 Ca
 ea
 Wq
@@ -13938,7 +14049,7 @@ Ei
 fv
 xL
 pQ
-AV
+qI
 tJ
 tJ
 ek
