@@ -1,5 +1,6 @@
 /area/ruin/space/has_grav/temple
-	report_alerts = FALSE
+	atmosalm = FALSE
+	poweralm = FALSE
 
 /area/ruin/space/has_grav/temple/asteroid
 	name = "Unkonw asteroid"
