@@ -156,8 +156,8 @@
 #include "code\__DEFINES\dcs\flags.dm"
 #include "code\__DEFINES\dcs\helpers.dm"
 #include "code\__DEFINES\dcs\signals.dm"
-#include "code\__DEFINES\~mods\tajara.dm"
 #include "code\__DEFINES\~mods\roaches.dm"
+#include "code\__DEFINES\~mods\tajara.dm"
 #include "code\__HELPERS\_auxtools_api.dm"
 #include "code\__HELPERS\_lists.dm"
 #include "code\__HELPERS\_logging.dm"
@@ -3495,6 +3495,8 @@
 #include "interface\menu.dm"
 #include "interface\stylesheet.dm"
 #include "interface\skin.dmf"
+#include "mod_celadon\maps\_configs.dm"
+#include "mod_celadon\maps\code\ruins\ruin.dm"
 // END_INCLUDE
 
 // CELADON

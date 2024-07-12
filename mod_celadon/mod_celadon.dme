@@ -68,7 +68,7 @@
 
 // --- MAPS --- //
 #include "maps/_configs.dme"
-
+#include "maps/code/ruins/asteroidtemple.dm"
 
 // --- UNUSED MODS --- //
 /*------------------------------------------------------------------

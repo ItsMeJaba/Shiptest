@@ -1,5 +1,4 @@
 /area/ruin/space/has_grav/temple
-	atmosalm = FALSE
 	poweralm = FALSE
 
 /area/ruin/space/has_grav/temple/asteroid
